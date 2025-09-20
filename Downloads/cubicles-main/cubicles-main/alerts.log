@@ -1,0 +1,40 @@
+User 'unknown' at 2025-09-20 12:00:00 from unknown triggered anomalies: Unusual login location.
+User 'unknown' at 2025-09-20 12:01:00 from unknown triggered anomalies: Unusual login location; ML Model flagged: unusual login failure.
+User 'unknown' at 2025-09-20 12:02:00 from unknown triggered anomalies: Unusual login location.
+User 'unknown' at 2025-09-20 12:03:00 from unknown triggered anomalies: Unusual login location.
+User 'unknown' at 2025-09-20 12:04:00 from unknown triggered anomalies: Unusual login location.
+User 'unknown' at 2025-09-20 12:05:00 from unknown triggered anomalies: Unusual login location.
+User 'unknown' at 2025-09-20 12:06:00 from unknown triggered anomalies: Unusual login location.
+User 'unknown' at 2025-09-20 12:07:00 from unknown triggered anomalies: Unusual login location; ML Model flagged: unusual login failure.
+User 'unknown' at 2025-09-20 12:08:00 from unknown triggered anomalies: Unusual login location; ML Model flagged: unusual login failure.
+User 'unknown' at 2025-09-20 12:09:00 from unknown triggered anomalies: Unusual login location; ML Model flagged: unusual login failure.
+User 'unknown' at 2025-09-20 12:10:00 from unknown triggered anomalies: Unusual login location.
+User 'unknown' at 2025-09-20 12:11:00 from unknown triggered anomalies: Unusual login location.
+User 'unknown' at 2025-09-20 12:12:00 from unknown triggered anomalies: Unusual login location; ML Model flagged: unusual login failure.
+User 'unknown' at 2025-09-20 12:13:00 from unknown triggered anomalies: Unusual login location; ML Model flagged: unusual login failure.
+User 'unknown' at 2025-09-20 12:14:00 from unknown triggered anomalies: Unusual login location.
+User 'unknown' at 2025-09-20 12:15:00 from unknown triggered anomalies: Unusual login location.
+User 'unknown' at 2025-09-20 12:16:00 from unknown triggered anomalies: Unusual login location.
+User 'unknown' at 2025-09-20 12:17:00 from unknown triggered anomalies: Unusual login location.
+User 'unknown' at 2025-09-20 12:18:00 from unknown triggered anomalies: Unusual login location; ML Model flagged: unusual login failure.
+User 'unknown' at 2025-09-20 12:19:00 from unknown triggered anomalies: Unusual login location.
+Suspicious activity: User unknown from unknown at 2025-09-20 12:00:00 - Unusual login location
+Suspicious activity: User unknown from unknown at 2025-09-20 12:01:00 - Unusual login location, ML Model flagged: unusual login failure
+Suspicious activity: User unknown from unknown at 2025-09-20 12:02:00 - Unusual login location
+Suspicious activity: User unknown from unknown at 2025-09-20 12:03:00 - Unusual login location
+Suspicious activity: User unknown from unknown at 2025-09-20 12:04:00 - Unusual login location
+Suspicious activity: User unknown from unknown at 2025-09-20 12:05:00 - Unusual login location
+Suspicious activity: User unknown from unknown at 2025-09-20 12:06:00 - Unusual login location
+Suspicious activity: User unknown from unknown at 2025-09-20 12:07:00 - Unusual login location, ML Model flagged: unusual login failure
+Suspicious activity: User unknown from unknown at 2025-09-20 12:08:00 - Unusual login location, ML Model flagged: unusual login failure
+Suspicious activity: User unknown from unknown at 2025-09-20 12:09:00 - Unusual login location, ML Model flagged: unusual login failure
+Suspicious activity: User unknown from unknown at 2025-09-20 12:10:00 - Unusual login location
+Suspicious activity: User unknown from unknown at 2025-09-20 12:11:00 - Unusual login location
+Suspicious activity: User unknown from unknown at 2025-09-20 12:12:00 - Unusual login location, ML Model flagged: unusual login failure
+Suspicious activity: User unknown from unknown at 2025-09-20 12:13:00 - Unusual login location, ML Model flagged: unusual login failure
+Suspicious activity: User unknown from unknown at 2025-09-20 12:14:00 - Unusual login location
+Suspicious activity: User unknown from unknown at 2025-09-20 12:15:00 - Unusual login location
+Suspicious activity: User unknown from unknown at 2025-09-20 12:16:00 - Unusual login location
+Suspicious activity: User unknown from unknown at 2025-09-20 12:17:00 - Unusual login location
+Suspicious activity: User unknown from unknown at 2025-09-20 12:18:00 - Unusual login location, ML Model flagged: unusual login failure
+Suspicious activity: User unknown from unknown at 2025-09-20 12:19:00 - Unusual login location
